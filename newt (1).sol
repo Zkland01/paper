@@ -6,11 +6,11 @@
 
 /*
  * SPDX-License-Identifier: MIT
- * https://internetcoin.fun/
+ * https://
  
- * https://t.me/internetonbase
+ * https://t.me/
 
- * https://x.com/internetonbase                    
+ * https://x.com/                
 */
 
 // File @openzeppelin/contracts/utils/Context.sol@v5.0.2
